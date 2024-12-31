@@ -1,0 +1,4 @@
+zig-out/
+src/shader/*.glsl.zig
+.DS_Store
+.zig-cache/
